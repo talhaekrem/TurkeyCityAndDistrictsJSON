@@ -9,3 +9,6 @@
 
 ### JSON dosyasına ait örnek görsel aşağıdaki gibidir
 ![JSON View](sample.png)
+
+### LICENSE
+[MIT](https://choosealicense.com/licenses/mit/)
